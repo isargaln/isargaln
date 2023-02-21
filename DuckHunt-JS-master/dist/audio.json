@@ -1,0 +1,50 @@
+{
+  "src": [
+    "audio.ogg",
+    "audio.mp3"
+  ],
+  "sprite": {
+    "barkDucks": [
+      0,
+      0
+    ],
+    "champ": [
+      0,
+      0
+    ],
+    "gunSound": [
+      3.547708,
+      5.713505
+    ],
+    "laugh": [
+      0,
+      3.26802
+    ],
+    "loserSound": [
+      5.808711,
+      26.004114
+    ],
+    "ohYeah": [
+      0,
+      3.26802
+    ],
+    "quacking": [
+      0,
+      0,
+      true
+    ],
+    "quak": [
+      0,
+      0
+    ],
+    "sniff": [
+      0,
+      0,
+      true
+    ],
+    "thud": [
+      0,
+      0
+    ]
+  }
+}
